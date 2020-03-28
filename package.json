@@ -18,6 +18,6 @@
   "homepage": "https://github.com/gnlow/dalkak-heroku#readme",
   "dependencies": {
     "dalkak": "^0.8.12",
-    "ent2dalk": "^0.1.10"
+    "ent2dalk": "^0.1.12"
   }
 }
