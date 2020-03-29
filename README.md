@@ -1,4 +1,5 @@
 # dalkak-heroku
+서버를 돌리려면 [Kachi-Server](https://github.com/gnlow/kachi-server)와 같은 서버용 Dalkak 확장 패키지를 사용해야 합니다.
 ## 서버 업로드 방법
 ### dalkak-heroku 포크
 ![1-fork](https://user-images.githubusercontent.com/27040628/77836823-e049ef00-719c-11ea-8b1f-9d0b557bae8c.png)
